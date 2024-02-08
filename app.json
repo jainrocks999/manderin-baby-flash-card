@@ -1,8 +1,8 @@
 {
-  "name": "eFlashPotuguese",
-  "displayName": "Portuguese Baby Flashcards",
+  "name": "eFlashManderin",
+  "displayName": "Mandarin Flashcards for Kids",
    "react-native-google-mobile-ads": {
-    "android_app_id": "ca-app-pub-3339897183017333~3605155182",
+    "android_app_id": "ca-app-pub-3339897183017333~7058149180",
     "ios_app_id": "ca-app-pub-3339897183017333~4842741917"
   }
 }

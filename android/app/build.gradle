@@ -93,13 +93,13 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.eFlashPotuguese"
+    namespace "com.eFlashManderin"
     defaultConfig {
-        applicationId "com.eFlashPotuguese"
+        applicationId "com.eFlashManderin"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 6
-        versionName "1.5"
+        versionCode 7
+        versionName "1.6"
     }
 
     splits {

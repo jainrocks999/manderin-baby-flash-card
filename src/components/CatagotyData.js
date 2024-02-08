@@ -9,12 +9,12 @@ export default [
     Category: 'Animal',
     Image: require('../../Assets4/catg2.png'),
   },
-  {
-    id: '3',
+  // {
+  //   id: '3',
 
-    Category: 'Alphabet',
-    Image: require('../../Assets4/catg11.png'),
-  },
+  //   Category: 'Alphabet',
+  //   Image: require('../../Assets4/catg11.png'),
+  // },
   {
     id: '4',
 

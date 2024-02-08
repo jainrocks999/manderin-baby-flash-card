@@ -1,4 +1,4 @@
-package com.eFlashPotuguese;
+package com.eFlashManderin;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

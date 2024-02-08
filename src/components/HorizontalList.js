@@ -52,7 +52,7 @@ const HorizontalList = ({items}) => {
       Linking.openURL(
         cat == 'link'
           ? 'https://babyflashcards.com/apps.html'
-          : 'https://play.google.com/store/apps/details?id=com.eFlashPotuguese',
+          : 'https://play.google.com/store/apps/details?id=com.eFlashManderin',
       );
     }
   };
