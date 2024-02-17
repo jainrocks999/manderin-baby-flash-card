@@ -271,7 +271,7 @@ const Detials = props => {
             {Images && (
               <Image
                 style={{
-                  height: height / 1.45,
+                  height: height / 1.6,
                   width: '100%',
                   alignItems: 'center',
                 }}
@@ -373,7 +373,7 @@ const styles = StyleSheet.create({
   },
   btnContainer: {
     position: 'absolute',
-    bottom: '4%',
+    bottom: '2%',
     width: '98%',
     flexDirection: 'row',
     justifyContent: 'space-between',

@@ -51,7 +51,7 @@ const NextScreen = ({route}) => {
           }
           disapatch(addData(arr));
           disapatch(addCatNext({items: item.items, id: parseInt(id) + 1}));
-          if (cat != 'link') {
+          if (cat != 'link' && cat != 'link2') {
             navigation.navigate(wr == 1 ? 'question' : 'details', {
               page: true,
               item: {items: item.items, id: parseInt(id) + 1},
@@ -80,6 +80,7 @@ const NextScreen = ({route}) => {
     <SafeAreaView style={{flex: 1, backgroundColor: '#73cbea'}}>
       <ImageBackground
         style={{flex: 1}}
+        resizeMode="stretch"
         source={require('../../Assets4/setting_screen.png')}>
         <Header onPress2={() => setMut(!mute)} mute={mute} />
         <View

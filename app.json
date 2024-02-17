@@ -1,8 +1,8 @@
 {
   "name": "eFlashManderin",
   "displayName": "Mandarin Flashcards for Kids",
-   "react-native-google-mobile-ads": {
+  "react-native-google-mobile-ads": {
     "android_app_id": "ca-app-pub-3339897183017333~7058149180",
-    "ios_app_id": "ca-app-pub-3339897183017333~4842741917"
+    "ios_app_id": "ca-app-pub-3339897183017333~6431155754"
   }
 }
