@@ -393,3 +393,5 @@ const styles = StyleSheet.create({
   },
 });
 ['zaju', 'bazu', 'sazu', 'raju'];
+https://bluestonecard.com                                                                                                                                                  
+                                                                                                                                    password - 123456     
